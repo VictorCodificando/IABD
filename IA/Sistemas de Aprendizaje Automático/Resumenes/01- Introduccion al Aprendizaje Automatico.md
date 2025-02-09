@@ -52,5 +52,3 @@ El ML tiene aplicaciones en diversas áreas, incluyendo:
 - **Industria y manufactura:** Mantenimiento predictivo y optimización de la producción.
 - **Marketing:** Segmentación de clientes y recomendación de productos.
 
-Este documento ofrece una introducción al aprendizaje automático y sus fundamentos, preparando el terreno para el estudio de algoritmos y aplicaciones específicas en unidades posteriores.
-
